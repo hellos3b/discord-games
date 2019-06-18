@@ -1,5 +1,11 @@
 # Discord Games
 
+8 Teams of two people will compete in a series of 10 games/challenges
+
+Points are given for each challenge. Winner is the team with most points at the end
+
+Drinking is encouraged
+
 # Challenges
 
 ## 1. Bounce Relay
@@ -155,3 +161,15 @@ When Player A finishes, hand the cups to Player B and have them do the same.
 #### Rules
 
 9 cups in the middle of the table, two teams go against each other and try to play Tic-Tac-Toe in the middle by throwing ping pong balls into the cups. No turn based, once you start you just throw
+
+# Scoring
+
+Each competition is graded by either:
+
+1. **Timer** - How fast you can complete the task
+
+2. **Score** - How many points you can get in the allotted time
+
+After each team completes the tasks, points will be award from 1st to last place - 8 points for first, 7 points for second, 6 points for third - all the way down
+
+At the end of all 10 games, winner is the team with the most points
