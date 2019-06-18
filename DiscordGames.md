@@ -173,3 +173,17 @@ Each competition is graded by either:
 After each team completes the tasks, points will be award from 1st to last place - 8 points for first, 7 points for second, 6 points for third - all the way down
 
 At the end of all 10 games, winner is the team with the most points
+
+## Ties
+
+There are no tie breakers. If any teams tie, they share the same amount of points, and the next lowest score gets points for their spot
+
+*example*
+
+| Team | Score | Points Awarded |
+| --- | --- | --- |
+| Team A | 14 | 8 |
+| Team B *(tie)* | 10 | 7
+| Team C *(tie)* | 10 | 7
+| Team D | 8 | 5
+| Team E | 7 | 4
