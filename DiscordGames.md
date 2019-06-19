@@ -48,7 +48,7 @@ Score is how many you can get in the basket in 60 seconds
 
 https://www.youtube.com/watch?v=kznInnMzQss
 
-## 3. Rubberband Range
+## 3. Sharpshooter
 
 ![Rubberband Range](img/rubberband-range.png)
 
