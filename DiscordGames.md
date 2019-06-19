@@ -1,4 +1,4 @@
-# Discord Games
+# Bored Human Olympics
 
 8 Teams of two people will compete in a series of 10 games/challenges
 
