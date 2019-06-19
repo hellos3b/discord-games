@@ -8,7 +8,7 @@ Drinking is encouraged
 
 # Challenges
 
-## 1. Bounce Relay
+## 1. Bouncer
 
 ![Bounce Relay](img/bounce-relay.png)
 
@@ -23,6 +23,10 @@ Six cups lined up in a line on a table. Person A starts from the beginning, and 
 
 Once you get the last cup, person B must do the same thing
 
+#### Video
+
+https://www.youtube.com/watch?v=Vf1Kj6Q6W4A
+
 ## 2. Office Tennis
 
 ![Bounce Relay](img/office-tennis.png)
@@ -34,11 +38,15 @@ Once you get the last cup, person B must do the same thing
 
 #### Rules
 
-Both players hold a cutting board and start behind a marked line. The goal is to bounce a crumbled up piece of paper back and forth towards a waste basket, and hit it in.
+Both players hold cardboard and start behind a marked line. The goal is to bounce a crumbled up piece of paper back and forth towards a waste basket, and hit it in.
 
 Anytime the paper touches the ground, have to start from behind the line again.
 
 Score is how many you can get in the basket in 60 seconds
+
+#### Video
+
+https://www.youtube.com/watch?v=kznInnMzQss
 
 ## 3. Rubberband Range
 
@@ -55,7 +63,7 @@ Playing will be set up by clothespins at varying differences. You will have 5-10
 
 Score will be you and your teammates score combined
 
-## 4. Quarter Catch
+## 4. Spin Doctor
 
 ![Quarter Catch](img/quarter-catch.png)
 
@@ -67,6 +75,10 @@ Score will be you and your teammates score combined
 #### Rules
 
 One player flicks, the other catches. The goal is to spin a coin across an area so it's spinning on it's side, and the other play has to put their finger on it and catch it on the table so it's still standing on it's edge
+
+#### Video
+
+https://www.youtube.com/watch?v=8FCTjvVZ6dM
 
 ## 5. Horseplay
 
@@ -87,7 +99,11 @@ Anytime somebody scores or if the ball hits the floor, the next teammate goes
 
 Best score for 60 seconds
 
-## 6. Cookie Catch
+#### Video
+
+https://www.youtube.com/watch?v=nYVhX_pV2_o
+
+## 6. Cookie Face
 
 ![Cookie Catch](img/cookie-play.png)
 
@@ -112,7 +128,11 @@ Scoring will be done over 4 rounds of 8 people:
 
 Points will be distributed each round, and the final points will be based on the leaderboard over the 4 rounds
 
-## 7. Slinky Face
+#### Video
+
+https://www.youtube.com/watch?v=HljLGW45_-E
+
+## 7. Elephant
 
 ![Slinky Face](img/slinky-face.png)
 
@@ -127,7 +147,11 @@ Headband with slinky on, start leaning forward. Sling your head back and try to 
 
 Scoring is combined time of both teammates
 
-## 8. Marshmellow Launch
+#### Reference
+
+https://www.youtube.com/watch?v=Tr30_HO828k
+
+## 8. Watch Your Mouth
 
 ![Marshmellow Launch](img/marshmellow-launch.png)
 
@@ -141,6 +165,10 @@ Scoring is combined time of both teammates
 Teammates stand across the room. Player A throws a marshmellow and Player B tries to catch it in their mouth.
 
 Scoring is most marshmellows caught in 60s
+
+#### VIdeo
+
+https://www.youtube.com/watch?v=3RL5DvmtWb4
 
 ## 9. Stack Attack Relay
 
@@ -157,6 +185,10 @@ Player A needs to stack 28 cups (7 cup base), and then collapse them back on top
 
 When Player A finishes, hand the cups to Player B and have them do the same.
 
+#### Video
+
+https://www.youtube.com/watch?v=YAHCax66rrM
+
 ## 10. Ping Tac Toe
 
 ![Ping Tac Toe](img/ping-tac-toe.png)
@@ -169,6 +201,10 @@ When Player A finishes, hand the cups to Player B and have them do the same.
 #### Rules
 
 9 cups in the middle of the table, two teams go against each other and try to play Tic-Tac-Toe in the middle by throwing ping pong balls into the cups. No turn based, once you start you just throw
+
+#### Video
+
+https://www.youtube.com/watch?v=tp4H3py0yHY
 
 # Scoring
 
