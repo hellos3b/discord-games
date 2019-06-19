@@ -51,13 +51,11 @@ Score is how many you can get in the basket in 60 seconds
 
 #### Rules
 
-*work in progress*
+Playing will be set up by clothespins at varying differences. You will have 5-10 (TBD) rubberbands to shoot and get points.
 
-Playing cards are held up with a clothespin. You have a certain amount of shots to knock down as many cards as you can.
+Some cards will be worth more points.
 
-Some cards will be further away and worth more points.
-
-Score is best score between two teammates
+Score will be you and your teammates score combined
 
 ## 4. Quarter Catch
 
@@ -91,20 +89,30 @@ Anytime somebody scores or if the ball hits the floor, the next teammate goes
 
 Best score for 60 seconds
 
-## 6. Cookie Play
+## 6. Cookie Catch
 
-![Cookie Play](img/cookie-play.png)
+![Cookie Catch](img/cookie-play.png)
 
 
-|<span style="font-weight:600">Type</span>|<span style="font-weight:normal">Single</span>|
+|<span style="font-weight:600">Type</span>|<span style="font-weight:normal">Heads Up</span>|
 | --- | --- |
-| **Scoring** | Timer |
+| **Scoring** | Leaderboard |
 
 #### Rules
 
-Sit in a chair, and put an oreo on your forehead. The goal is to catch it in your mouth without using your hands
+Sit in a chair, and put an oreo on your forehead. The goal is to roll it down to your mouth without using your hands. If you drop the oreo, you have to restart on your forehead
 
-If you drop the oreo, you have to restart on your forehead
+Scoring will be done over 4 rounds of 8 people:
+
+1. Person A on each team
+
+2. Person B on each team
+
+3. Teammate who placed higher in rounds 1/2
+
+4. Final Teammate
+
+Points will be distributed each round, and the final points will be based on the leaderboard over the 4 rounds
 
 ## 7. Slinky Face
 
@@ -117,7 +125,9 @@ If you drop the oreo, you have to restart on your forehead
 
 #### Rules
 
-Headband with slinky on, start leaning forward. Sling your head back and try to catch it on your forehead
+Headband with slinky on, start leaning forward. Sling your head back and try to catch it on your forehead.
+
+Scoring is combined time of both teammates
 
 ## 8. Marshmellow Launch
 
