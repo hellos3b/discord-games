@@ -51,9 +51,7 @@ Score is how many you can get in the basket in 60 seconds
 
 #### Rules
 
-Playing will be set up by clothespins at varying differences. You will have 5-10 (TBD) rubberbands to shoot and get points.
-
-Some cards will be worth more points.
+Playing will be set up by clothespins at varying differences. You will have 5-10 (TBD) rubberbands to shoot and knock down cards for points. Some cards will be worth more points.
 
 Score will be you and your teammates score combined
 
