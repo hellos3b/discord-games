@@ -170,9 +170,11 @@ Scoring is most marshmellows caught in 60s
 
 https://www.youtube.com/watch?v=3RL5DvmtWb4
 
-## 9. Stack Attack Relay
+## 9. ~~Stack Attack Relay~~
 
-![Stack Attack](img/stack-attack.png)
+## 9. Flip Cup Relay
+
+(Replacing Stack Attack)
 
 
 |<span style="font-weight:600">Type</span>|<span style="font-weight:normal">Relay</span>|
@@ -181,13 +183,7 @@ https://www.youtube.com/watch?v=3RL5DvmtWb4
 
 #### Rules
 
-Player A needs to stack 28 cups (7 cup base), and then collapse them back on top of each other.
-
-When Player A finishes, hand the cups to Player B and have them do the same.
-
-#### Video
-
-https://www.youtube.com/watch?v=YAHCax66rrM
+8 Cups, 4 on each side of a table. Teammates will be on opposite sides. When the timer starts, one side will flip a cup in standard "flip cup" fashion. Once the cup lands, teammate does their first cup. Alternate back and forth until all 8 cups are flipped
 
 ## 10. Ping Tac Toe
 
